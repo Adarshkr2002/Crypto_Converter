@@ -392,7 +392,7 @@ const Footer = () => (
           Adarsh Kumar Jha
         </div>
         <p className="text-gray-400 mb-6">
-          Made with ❤️ by You B Tech | © 2025
+          Made with ❤️ by Adarsh Kumar Jha | © 2025
         </p>
         <div className="flex justify-center space-x-6">
           <a
